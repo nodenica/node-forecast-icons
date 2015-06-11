@@ -1,0 +1,23 @@
+{
+  "name": "forecast-icons",
+  "version": "0.0.1",
+  "description": "Icons to forecast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulomcnally/node-forecast-icons.git"
+  },
+  "keywords": [
+    "forecast",
+    "icons"
+  ],
+  "author": "Paulo McNally <paulomcnally@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paulomcnally/node-forecast-icons/issues"
+  },
+  "homepage": "https://github.com/paulomcnally/node-forecast-icons"
+}
